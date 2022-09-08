@@ -1,0 +1,48 @@
+
+[
+            {
+                "id": "1",
+                "nome": "Pedro",
+                "console": "ps2",
+                "preco": "200"
+            },
+            {
+                "id": "2",
+                "nome": "Val",
+                "console": "ps1",
+                "preco": "50"
+            },
+            {
+                "id": "3",
+                "nome": "Fagner",
+                "console": "xbox",
+                "preco": "2000"
+            },
+            {
+                "id": "4",
+                "nome": "Flavio",
+                "console": "one",
+                "preco": "1000"
+            },
+            {
+                "id": "5",
+                "nome": "Giovanna",
+                "console": "xbox98",
+                "preco": "300"
+            },
+            {
+                "id": "6",
+                "nome": "Luana",
+                "console": "xbox",
+                "preco": "200"
+            },
+            {
+                "id": "7",
+                "nome": "Pri",
+                "console": "ps2",
+                "preco": "100"
+            }
+]
+
+
+    

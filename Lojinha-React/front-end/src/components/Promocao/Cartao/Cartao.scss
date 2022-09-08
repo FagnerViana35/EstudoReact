@@ -1,0 +1,49 @@
+.promocao-cartao{
+    border-radius: 8px;
+    border: 1px solid #c3c3c3;
+    box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);
+    display:flex;
+    padding: 15px;
+    align-items: flex-start;
+}
+
+.promocao-cartao__imagem{
+    width: 100px;
+    margin-right: 20px;
+}
+
+.promocao-cartao__title{
+    font-size: 16px;
+    color: #2c3e50;
+}
+
+.promocao-cartao__price{
+    font-size: 26px;
+    font-weight: 700;
+    color: #3498DB;
+}
+
+.promocao-cartao__comentario{
+    color:#95a5a6;
+    font-weight: 700;
+
+}
+
+.promocao-cartao__footer{
+    display: flex;
+    align-items: center;
+}
+.promocao-cartao__comentario-count{
+    margin-left: auto;
+    margin-right: 20px;
+    color: #3498DB;
+}
+
+.promocao-cartao__link{
+  border: 1px solid #3498DB;  
+  border-radius: 4px;
+  color: #3498DB;
+  text-decoration: none;
+  padding: 8px 10px; 
+}
+
